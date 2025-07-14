@@ -28,7 +28,7 @@ This project deploys a highly available and scalable web application architectur
 - Distributes traffic to healthy EC2 instances
 - Target group configured to listen on port 80
 
-### 4. ** Amazon RDS **
+### 4. **Amazon RDS**
 - MySQL/PostgreSQL database engine
 - Deployed in a DB Subnet Group across 2+ subnets
 - Public access can be enabled for testing

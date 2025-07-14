@@ -137,6 +137,8 @@ Use Free Tier resources where possible (e.g., t2.micro, db.t3.micro)
 
 ## 🏁 Outputs
 ## ALB DNS: http://webapp-alb-1787114958.us-east-1.elb.amazonaws.com/
+<img width="1196" height="385" alt="image" src="https://github.com/user-attachments/assets/bba61cd6-24db-41ac-8a84-00d4913696e5" />
+
 
 EC2 Instances: auto-created by ASG
 
